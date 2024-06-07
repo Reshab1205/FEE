@@ -1,0 +1,47 @@
+
+SELECT Statements:
+
+1. Retrieve the names of all students.
+
+2. Find the courses offered by the "Computer Science" department.
+
+3. List the professors who teach more than one course.
+
+4. Retrieve the courses and the number of students enrolled in each course.
+
+5. Find the students who have enrolled in the course "Mathematics 101."
+
+6. List the courses without any enrolled students.
+
+7. Retrieve the schedule (day, time, and room) for the course "Physics 201."
+
+8. Find the average grade for the course "Chemistry 101."
+
+9. List the students who have not enrolled in any courses.
+
+10. Retrieve the names of all professors in the "Engineering" department.
+
+INSERT Statements:
+
+11. Insert a new student into the Students table.
+
+12. Enroll a student in the course "History 101."
+
+13. Insert a new course for the "Business" department.
+
+14. Schedule a class for the course "Art 201" with Professor Alice Johnson.
+
+15. Add a new professor to the Professors table.
+
+DELETE Statements:
+
+16. Remove a student from the Students table.
+
+17. Withdraw a student from the course "Chemistry 101."
+
+18. Delete a course from the Courses table.
+
+19. Remove a professor from the Professors table.
+
+20. Cancel a class from the ClassSchedule table.
+

@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+
+/* Add spacing (margin) and padding to <li> elements */
+ul {
+  list-style-type: none;
+  padding: 0; /* Remove default padding on the <ul> element */
+}
+
+li {
+  margin-bottom: 10px; /* Add spacing between <li> elements */
+  padding: 5px; /* Add padding inside <li> elements */
+}
